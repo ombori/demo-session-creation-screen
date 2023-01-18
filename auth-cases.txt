@@ -1,0 +1,8 @@
+Cases:
+1. [fresh] accessing the url, without sessionId
+2. [fresh] accessing the url, with invalid sessionId as hash param
+3. [fresh] accessing the url, with valid sessionId
+4. [existing cache] accessing the url without sessionId
+5. [existing cache] accessing the url with invalid sessionId
+6. [existing cache] accessing the url with valid sessionId
+7. [expiration] session should expire and just show gate status

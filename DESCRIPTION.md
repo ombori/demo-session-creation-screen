@@ -1,5 +1,5 @@
-# {{applicationName}} #
-by {{author}}
+# demo-session-creation-screen #
+by Vnx Test Parent
 
 A short description will be displayed in application list.
 
